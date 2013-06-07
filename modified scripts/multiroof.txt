@@ -1,0 +1,57 @@
+﻿;----------------------------------------------------------------------
+; Script number = F4
+; Title         = " 4 Multi Roof"
+; Color         = "255,0,0"
+; Created on    : 2009-12-02 00:30 Z
+; Modified      : 2009-12-02 01:15 Z
+; Version       : 2.2
+; Created by    : 
+; Keywords      : 
+; Description   : 
+;----------------------------------------------------------------------
+;
++0.01	Text Add "wheel7" "ShowPath\Photo_150_Fall09\Jennifer\carousel\carousel_roof.dds" 0 0 Local 90 0 0 1 1
++0.01	Text Add "wheel6" "ShowPath\Photo_150_Fall09\Jennifer\carousel\carousel_roof.dds" 0 0 Local 90 0 0 1 1
++0.01	Text Add "wheel5" "ShowPath\Photo_150_Fall09\Jennifer\carousel\carousel_roof.dds" 0 0 Local 90 0 0 1 1
++0.01	Text Add "wheel4" "ShowPath\Photo_150_Fall09\Jennifer\carousel\carousel_roof.dds" 0 0 Local 90 0 0 1 1
++0.01	Text Add "wheel3" "ShowPath\Photo_150_Fall09\Jennifer\carousel\carousel_roof.dds" 0 0 Local 90 0 0 1 1
++0.01	Text Add "wheel2" "ShowPath\Photo_150_Fall09\Jennifer\carousel\carousel_roof.dds" 0 0 Local 90 0 0 1 1
++0.01	Text Add "wheel1" "ShowPath\Photo_150_Fall09\Jennifer\carousel\carousel_roof.dds" 0 0 Local 90 0 0 1 1
++0.01	Text Add "wheel" "ShowPath\Photo_150_Fall09\Jennifer\carousel\carousel_roof.dds" 0 0 Local 90 0 0 1 1
+
++.5    Text Locate  "wheel"    0 0 90 0 45 45
+ 
+	 
+	 Text View "wheel" 0 100 100 100 100
+	 Text View "wheel1" 0 100 100 100 100
+	 Text View "wheel2" 0 100 100 100 100
+	 Text View "wheel3" 0 100 100 100 100
+	 Text View "wheel4" 0 100 100 100 100
+	 Text View "wheel5" 0 100 100 100 100
+	 Text View "wheel6" 0 100 100 100 100
+	 Text View "wheel1" 0 100 100 100 100
+	 
+	 Text Locate  "wheel"    30 0 90 1000 45 45
+	 
+	 Text Locate  "wheel1"    0 0 90 0 45 45		 
+       Text Locate  "wheel1"    30 60 25 1000 45 45
+ 
+       Text Locate  "wheel2"    0 0 90 0 45 45
+       Text Locate  "wheel2"    30 120 25 -1000 45 45
+ 
+       Text Locate  "wheel3"    0 0 90 0 45 45
+       Text Locate  "wheel3"    30 180 25 1000 45 45
+ 
+       Text Locate  "wheel4"    0 0 90 0 45 45
+       Text Locate  "wheel4"    30 240 25 -1000 45 45
+ 
+       Text Locate  "wheel5"    0 0 90 0 45 45
+       Text Locate  "wheel5"    30 300 25 1000 45 45
+ 
+       Text Locate  "wheel6"    0 0 90 0 45 45
+       Text Locate  "wheel6"    30 360 25 -1000 45 45
+ 
+       Text Locate  "wheel7"    0 0 90 0 45 45
+       Text Locate  "wheel7"    30 420 25 1000 45 45
+ 
+

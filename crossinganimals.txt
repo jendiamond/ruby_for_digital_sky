@@ -1,0 +1,8 @@
+      Text Locate  "tiger"    0 270 25 0 70 70
++2    Text Locate  "tiger"    0 90 25 0 4 70 70
+ 
+      Text Locate  "camel"    0 270 25 0 70 70
++2    Text Locate  "camel"    0 90 25 0 70 70
+ 
+      Text Locate  "tiger"    0 270 25 0 70 70
++2    Text Locate  "tiger"    0 90 25 0 70 70

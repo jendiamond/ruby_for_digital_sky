@@ -1,0 +1,182 @@
++.2   Text Locate "animalwheel"  0.2 360 93 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 356 92 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 352 91 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 348 90 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 344 89 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 340 88 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 336 87 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 332 86 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 328 85 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 324 84 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 320 83 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 316 82 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 312 81 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 308 80 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 304 79 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 300 78 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 296 77 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 292 76 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 288 75 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 284 74 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 280 73 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 276 72 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 272 71 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 268 70 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 264 69 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 260 68 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 256 67 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 252 66 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 248 65 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 244 64 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 240 63 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 236 62 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 232 61 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 228 60 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 224 59 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 220 58 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 216 57 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 212 56 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 208 55 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 204 54 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 200 53 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 196 52 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 192 51 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 188 50 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 184 49 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 180 48 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 176 47 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 172 46 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 168 45 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 164 44 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 160 43 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 156 42 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 152 41 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 148 40 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 144 39 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 140 38 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 136 37 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 132 36 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 128 35 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 124 34 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 120 33 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 116 32 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 112 31 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 108 30 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 104 29 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 100 28 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 96 27 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 92 26 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 88 25 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 84 24 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 80 23 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 76 22 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 72 21 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 68 20 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 64 19 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 60 18 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 56 17 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 52 16 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 48 15 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 44 14 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 40 13 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 36 12 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 32 11 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 28 10 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 24 9 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 20 8 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 16 7 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 12 6 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 8 5 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 4 4 360 45 45
+ 
++.2   Text Locate "animalwheel"  0.2 0 3 360 45 45
+ 

@@ -1,0 +1,21 @@
++.5    Text Locate  "wheel1"    0 0 90 0 45 45
++.5    Text Locate  "wheel1"    5 60 25 1000 45 45
+ 
++.5    Text Locate  "wheel1"    0 0 90 0 45 45
++.5    Text Locate  "wheel1"    5 120 25 1000 45 45
+ 
++.5    Text Locate  "wheel1"    0 0 90 0 45 45
++.5    Text Locate  "wheel1"    5 180 25 1000 45 45
+ 
++.5    Text Locate  "wheel1"    0 0 90 0 45 45
++.5    Text Locate  "wheel1"    5 240 25 1000 45 45
+ 
++.5    Text Locate  "wheel1"    0 0 90 0 45 45
++.5    Text Locate  "wheel1"    5 300 25 1000 45 45
+ 
++.5    Text Locate  "wheel1"    0 0 90 0 45 45
++.5    Text Locate  "wheel1"    5 360 25 1000 45 45
+ 
++.5    Text Locate  "wheel1"    0 0 90 0 45 45
++.5    Text Locate  "wheel1"    5 420 25 1000 45 45
+ 

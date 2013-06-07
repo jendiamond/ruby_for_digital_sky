@@ -1,0 +1,35 @@
+Text Add  "llama"  \Shows\Photo150_Fall09\Jennifer\carousel\animals\camel.dds
+Text Add  "cat"  \Shows\Photo150_Fall09\Jennifer\carousel\animals\bunny.dds
++.01    Text Add  "deer"  \Shows\Photo150_Fall09\Jennifer\carousel\animals\swan.dds
++.01    Text Add  "elephant"  \Shows\Photo150_Fall09\Jennifer\carousel\animals\tiger.dds
++.01    Text Add  "tiger"  \Shows\Photo150_Fall09\Jennifer\carousel\animals\elephant.dds
++.01    Text Add  "swan"  \Shows\Photo150_Fall09\Jennifer\carousel\animals\deer.dds
++.01    Text Add  "bunny"   \Shows\Photo150_Fall09\Jennifer\carousel\animals\cat.dds
++.01    Text Add  "camel"   \Shows\Photo150_Fall09\Jennifer\carousel\animals\llama.dds
+
+       Text Locate  "llama"       0 300 30 0 45 45
++.5    Text Locate  "cat"         0  50 30 0 45 45
+       Text Locate  "deer"        0 300 30 0 45 45
++.5    Text Locate  "elephant"    0  50 30 0 45 45
+       Text Locate  "tiger"       0 300 30 0 45 45
++.5    Text Locate  "swan"        0  50 30 0 45 45
+       Text Locate  "bunny"       0 300 30 0 45 45
++.5    Text Locate  "camel"       0  50 30 0 45 45
+
+Text View "llama"     0 100 100 100 100
+Text View "cat"       0 100 100 100 100
+Text View "deer"      0 100 100 100 100
+Text View "elephant"  0 100 100 100 100
+Text View "tiger"     0 100 100 100 100
+Text View "swan"      0 100 100 100 100
+Text View "bunny"     0 100 100 100 100
+Text View "camel"     0 100 100 100 100
+
++.25    Text Locate  "llama"    0 50 30 0 45 45
++.25    Text Locate  "cat"      0 300 30 0 45 45
++.25    Text Locate  "deer"     0 50 30 0 45 45
++.25    Text Locate  "elephant" 0 300 30 0 45 45
++.25    Text Locate  "tiger"    0 50 30 0 45 45
++.25    Text Locate  "swan"     0 300 30 0 45 45
++.25    Text Locate  "bunny"    0 50 30 0 45 45
++.25    Text Locate  "camel"    0 300 30 0 45 45
